@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RecallThePinball_Legacy",
+"productVersion": "0.1",
+"dataUrl": "RecallThePinball_Legacy.data.unityweb",
+"wasmCodeUrl": "RecallThePinball_Legacy.wasm.code.unityweb",
+"wasmFrameworkUrl": "RecallThePinball_Legacy.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.41f1"
+}
